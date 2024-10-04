@@ -6,7 +6,8 @@
 
 Lina is a mobile application designed to help farmers quickly and accurately detect diseases in palm trees. Using a simple image recognition system, farmers can capture a picture from their phone's camera, and Lina will analyze the image to diagnose the disease affecting the palm tree.
 
-# Features
+# <strong><small>Features</small></strong>
+
 # Camera-based Image Capture:
 Capture photos directly from your device’s camera for disease detection.
 # Disease Detection: 
