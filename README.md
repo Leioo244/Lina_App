@@ -8,13 +8,13 @@ Lina is a mobile application designed to help farmers quickly and accurately det
 
 # <strong><small>Features</small></strong>
 
-# Camera-based Image Capture:
+- Camera-based Image Capture:
 Capture photos directly from your device’s camera for disease detection.
-# Disease Detection: 
+- Disease Detection: 
 Leveraging a Vision Transformer (ViT) model, Lina can detect multiple palm tree diseases with high accuracy.
-# Real-time Diagnosis:
+- Real-time Diagnosis:
 Lina processes the captured images in real-time, providing immediate results to users.
-# Accurate Predictions: 
+- Accurate Predictions: 
 With a test accuracy of 96.93% and a validation accuracy of 96.43%, Lina offers reliable disease predictions.
 
 
@@ -22,5 +22,7 @@ With a test accuracy of 96.93% and a validation accuracy of 96.43%, Lina offers 
 Lina utilizes a Vision Transformer (ViT) model that is pre-trained on large datasets and fine-tuned for palm tree disease classification. The model has achieved:
 
 Training Accuracy: 98.50%
+
 Validation Accuracy: 96.43%
+
 Test Accuracy: 96.93%
